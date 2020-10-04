@@ -1,7 +1,7 @@
 # BOEING FINANCIAL ANALYSIS REPORT
 **Lam Nguyen**
 ---
-![headline](./images/headline.jpg)
+![headline](./images/headlines.jpg)
 
 # COMPANY PROFILE
 
