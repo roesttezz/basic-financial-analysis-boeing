@@ -57,19 +57,19 @@ Balance Sheet_Consolidated Statements of Financial Position
 # INTERPRETIVE ANALYSIS
 ---
 ![cnbc](./images/cnbc.jpg)
-### LiIQUIDITY
+### Liquidity
 
 Liquidity is the ability to turn the available assets of the company into cash, which is also its ability to pay the debt/liabilities regardless of it being long-term or short-term. And Boeing was experiencing a decrease in liquidity over the two-year period.
 
 From the data, we can say that the company is considerably not flush with cash and in a need of raising more money, but that’s not necessarily a bad news. Although Boeing experienced a decrease in liquidity, the liquidity is still above ‘safe’ rate of 1.0, which assures the ability to pay short-term debt. Such reduction can be put down to its effort in boosting investment in continuous technology innovation, including but not limited to AnalytX on data, HorizonX on startup investment, etc. To be said, Boeing is considerably using its assets and money on more areas. With the current strategy and liquidity rate, the company will be able to do much more and develop even more in the future.
 
-### PROFIT MARGIN
+### Profit Margin
 
 Profit margin measures the profitability, or how much profit, in percentage, a dollar of sales can generate by dividing the net income by the net sales. Boeing's profit margin in both 2018 and 2019 were on a positive increasing index.
 
 3% increase in the profit margin is a really nice effort of Boeing. Comparing to others in the same industry at around 10-12%, Boeing is at the average, which means the company is doing fine, and with how it has been performing, it will possibly do better. At 10.34%, Boeing is considered to be operating efficiently, producing its services and products at a competitive cost and generating profits. In the short-run, it helps preventing the business from hardships with debts, expenses and owners’ income handling. In the long-run, the possible benefits are confident. By running effectively, it can build a stable base for future profitability and promising actual income rise. The product mix of Boeing is profitable with innovative technology and competitive price. However, as said, the current events with Boeing 737 MAX 8, such mix should be taken into further revision. Many airlines have canceled thousands of flights operated by this model, which take the order of 737 MAX 8 to freeze for straight 4 months.
 
-### DEBT-TO-EQUITY RATIO
+### Debt-to-Equity Ratio
 
 The debt to equity ratio indicates the percentage between the creditor loans and stakeholders, or investors, financing.
 
