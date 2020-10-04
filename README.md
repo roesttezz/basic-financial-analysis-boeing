@@ -58,7 +58,7 @@ Balance Sheet_Consolidated Statements of Financial Position
 
 # INTERPRETIVE ANALYSIS
 ---
-![cnbc](./images/cnbc.jpeg)
+![cnbc](./images/cnbc.jpg)
 ## LiIQUIDITY
 
 Liquidity is the ability to turn the available assets of the company into cash, which is also its ability to pay the debt/liabilities regardless of it being long-term or short-term. And Boeing was experiencing a decrease in liquidity over the two-year period.
